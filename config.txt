@@ -18,13 +18,13 @@
 "region": "临汾",
 
 # 生日1，在日期前加r代表农历生日
-"birthday1": {"name": "欲荣宝贝", "birthday": "1997-03-17"},
+"birthday1": {"name": "欲蓉宝贝", "birthday": "1997-03-17"},
 # 生日2
 "birthday2": {"name": "乖儿子", "birthday": "1997-01-21"},
 
 
 # 纪念日1，会计算累计时间，格式"YYYY-MM-DD"
-"commemoration_day1": "2022-09-27",
+"commemoration_day1": "2022-09-26",
 #
 
 # 金句中文，留空默认显示金山的每日金句
